@@ -5,6 +5,8 @@
 DDSP-AudioPlugins is a collection of fully differentiable audio plugins built in PyTorch. These plugins enable gradient-based optimization and analysis-by-synthesis for music production, audio inversion, and machine learning research.  
 Currently, the repository features a kick synthesizer that demonstrates a differentiable approach to sound synthesis. In the future, additional plugins will be added to expand the toolkit.
 
+**The plugin is not perfect and I'm still working on it. However, it still generates some decent sounding kicks.
+
 ## Overview
 
 This differentiable kick synthesizer is designed with a DSP architecture for precise control over every aspect of the sound. Key components include:
